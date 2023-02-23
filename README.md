@@ -1,4 +1,4 @@
-# [Data_Visualisation_using_PowerBi_Portfolio](https://github.com/Vibhor2256/Data-Visualisation-using-PowerBi-Tableau)
+# [Data_Visualisation_using_PowerBi_Portfolio(click here for repo)](https://github.com/Vibhor2256/Data-Visualisation-using-PowerBi-Tableau)
 
 This repository/portfolio is for an End to end data visualization project.<br><br> The situation in the project is that there is a chocholate company which has shared its data
 about its sale of different category chocholate products. The dataset includes information about "locations of business done", "details of the sales team", "products with 
