@@ -7,7 +7,7 @@ business in analysing and decision making. The task consists 'loading and cleani
 calculations', 'Creating and changing visuals ', 'Answering some of the business questions', 'Understanding past trends & creating forecast', 'Customizing visuals & 
 interaction effects' and finally 'Creating a comprehensive sales performance report'. <br><br> Below are some static snapshots of the final created POWER BI report pages :-<br><br>
 * On the left side of the below picture, the graph showcases the Total Sales as per the different geographical areas. 
-* Down to it, we can see and draw insights for the questions like 'Which team has the highest total sales contribution?', 'Which sales person has the highesr sales contribution?', etc.
+* Down to it, we can see and draw insights for the questions like 'Which team has the highest total sales contribution?', 'Which sales person has the highest sales contribution?', etc.
 * On the right side of the below picture, the visuals showcases sales persons' ratings as per their sales contribution <br><br>
 ![](Power Bi/Proj01/images/Screenshot_20230222_114346.png) 
 <br><br>
