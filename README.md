@@ -24,4 +24,4 @@ https://user-images.githubusercontent.com/61342727/220541178-7067d77f-c890-4d67-
 [Click here](https://user-images.githubusercontent.com/61342727/220541178-7067d77f-c890-4d67-8a92-cd0f01b5a8d3.mp4)
 <br><br>
 ### Challenges faced during the report creation :-
-* Here is the link for proper documented challenges- [Challenges](Power Bi/Proj01/Notes while making first project.docx) 
+* Here is the link for properlly documented challenges- [Challenges](Power Bi/Proj01/Notes while making first project.docx) 
