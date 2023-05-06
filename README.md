@@ -9,7 +9,7 @@ interaction effects' and finally 'Creating a comprehensive sales performance rep
 * On the left side of the below picture, the graph showcases the Total Sales as per the different geographical areas. 
 * Down to it, we can see and draw insights for the questions like 'Which team has the highest total sales contribution?', 'Which sales person has the highest sales contribution?', etc.
 * On the right side of the below picture, the visuals showcases sales persons' ratings as per their sales contribution <br><br>
-![](Power Bi/Proj01/images/Screenshot_20230222_114346.png) 
+![]![image](https://user-images.githubusercontent.com/61342727/236634439-a272e3c5-31f3-444c-a97e-ced48752a03e.png)
 <br><br>
 * Below is the overall sales performance report, it can answer questions like 'Team wise total sales amount', 'total choclate boxes sold', 'Seeing each sales person for their sales details', etc.: <br><br>
 ![](Power Bi/Proj01/images/Screenshot_20230222_114727.png) 
@@ -24,4 +24,4 @@ https://user-images.githubusercontent.com/61342727/220541178-7067d77f-c890-4d67-
 [Click here](https://user-images.githubusercontent.com/61342727/220541178-7067d77f-c890-4d67-8a92-cd0f01b5a8d3.mp4)
 <br><br>
 ### Challenges faced during the report creation :-
-* Here is the link for properlly documented challenges- [Challenges](Power Bi/Proj01/Notes while making first project.docx) 
+* Here is the link for properly documented challenges- [Challenges](Power Bi/Proj01/Notes while making first project.docx) 
